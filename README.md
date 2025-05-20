@@ -31,6 +31,6 @@ Upon completion of the AILA request and a successful transfer of information bet
 ## Bonus Features:
 There is also the addition of having a hand menu that is attached to the right hand. This menu was made by me and gives the user quick access to specific webpages on the backend server. The current options found on the hand menu follow this order: Camera, Timer, Map, Patient. The patient menu operates differently as selecting it will open a sub menu that will give access to the user's data (indiicated by the isolated person on the left) and recent patients' data. By selecting any of these options, the menu will open up the corresponding webpage in front of the user.
 <div align="center">
-  <img src="Screenshots/HandMenu.png" width="400"/>
-  <img src="Screenshots/HandVitalMenu.png" width="400"/>
+  <img src="Screenshots/HandMenu.png" width="200" height="400"/>
+  <img src="Screenshots/HandVitalMenu.png" width="400" height="400"/>
 </div>
