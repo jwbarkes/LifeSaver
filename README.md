@@ -1,5 +1,11 @@
 # LifeSaver
 
+This project aims to decentralize healthcare by empowering user's with access to medical equipment as well as guide them through its usage via our AI assistant AILA. We are currently using the XReal One, and have previously used: Apple Vision Pro, Oculus Quest 2, and Magic Leap 2. My main responsibility on this project has been in the UI/UX. I have also worked on setting up Vuplex WebViewer, Image and Marker tracking, and connecting the backend server to our frontend application.
+
+<p align="center">
+    <img width="50%" src="Screenshots/XRealGlasses.webp">
+</p>
+
 ## Walkthrough of the Feature Setup
 
 This section provides a step-by-step visual guide to setting up the feature. Follow the screenshots below to see how the interface progresses through each stage.
